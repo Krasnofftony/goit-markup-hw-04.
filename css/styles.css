@@ -210,6 +210,9 @@ body {
   margin-bottom: 30px;
   align-items: center;
   justify-content: center;
+  width: 270px;
+  height: 120px;
+  background-color: var(--section-extra);
 }
 
 /*sections services & team */
@@ -312,7 +315,7 @@ body {
   border-radius: 50%;
   align-items: center;
   justify-content: center;
-  color: var(--icon-default);
+  color: var(--elements-white);
 }
 
 .icon {
